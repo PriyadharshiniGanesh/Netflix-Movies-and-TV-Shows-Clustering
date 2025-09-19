@@ -25,7 +25,8 @@ his dataset consists of tv shows and movies available on Netflix as of 2020.
 2. Hierarchical Clustering
 3. DBSCAN Clustering
 
-#  The K-Means Clustering model has the highest Calinski-Harabasz score out of all the models (9.039247). Also, the silhouette score for the K-Means Clustering model is 0.004634,
+# Conc;usion:
+ > The K-Means Clustering model has the highest Calinski-Harabasz score out of all the models (9.039247). Also, the silhouette score for the K-Means Clustering model is 0.004634,
  which is close to one compared to other models, indicating that it can cluster Movies and TV shows perfectly based on the content.
- - The K-Means Clustering model is the optimal model and well-trained for clustering TV shows and movies based on the content due to its high
+ > The K-Means Clustering model is the optimal model and well-trained for clustering TV shows and movies based on the content due to its high
  Calinski-Harabasz score (9.039247) and silhouette score (0.004634), which are close to 1 than other builded models.
